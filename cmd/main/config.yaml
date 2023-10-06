@@ -1,0 +1,8 @@
+
+storage:
+  memory:
+    # precision: 15s
+    partitionduration: 1h
+
+http:
+  port: 8080
